@@ -1,0 +1,82 @@
+body{
+    font:normal 16px Arial,Verdana,serif;
+    text-align:center;
+    background-image:url(fundo.jpg);
+    background-size:auto;
+    background-position:auto;
+    color:#fff;
+}
+.aside a{
+    position: absolute;
+    left:-90px;
+    transition: 0.2s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 0 15px 15px 0;
+}
+#Atribuicoes {
+    top:80px;
+    background-color: rgba(240, 8, 8, 0.847);
+}
+#candidatos {
+    top:165px;
+    background-color: rgba(116, 8, 240, 0.847);
+}
+#Proposta{
+    top:20px;
+    background-color:rgba(244,4,244,0.963)
+}
+p {
+    text-align: justify;
+    color:black;
+    text-indent: 10px;
+}
+.aside a:hover{
+    left:0;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar {
+    background: #dddddd
+}
+::-webkit-scrollbar-thumb {
+    background: #db1
+}
+
+.div1 {
+    height: 650px;
+    width:950px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(3, 2, 4);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+}
+h1 {
+    color: rgb(254, 165, 1);
+}
+h2 {
+    color: rgba(247, 215, 6, 0.726);
+}
+.div2 {
+    height: 550px;
+    width:950px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(3, 2, 4);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+}
+.div3 {
+    height: 250px;
+    width:400px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(3, 2, 4);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+}

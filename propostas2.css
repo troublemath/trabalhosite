@@ -1,0 +1,160 @@
+.aside a{
+    position: absolute;
+    left:-90px;
+    transition: 0.2s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 0 15px 15px 0;
+
+}
+
+#Funcoes {
+    top:30px;
+    background-color: rgb(42, 214, 70);
+}
+#Atribuicoes {
+    top:120px;
+    background-color: rgba(240, 8, 8, 0.847);
+}
+#candidatos {
+    top:210px;
+    background-color: rgba(116, 8, 240, 0.847);
+}
+
+.aside a:hover{
+    left:0;
+}
+p {
+    text-align: left;
+}
+
+.div1 {
+    height: 700px;
+    width: 500px;
+    background-color: rgb(204, 204, 204);
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }
+.div2 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }
+.div3 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }
+.div4 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }
+.div5 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }
+
+.div6 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }
+.div7 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }     
+.div8 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }    
+.div9 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }
+.div10 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }   
+.div11 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }   
+.div12 {
+    height: 700px;
+    width: 500px;
+    background-color: #ccc;
+    border: 3px solid rgb(32, 2, 255);
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+    }   
+
+body {
+    font: normal 16px Arial, Verdana, serif;
+    text-align: center;
+    background-image: url(fundo.jpg);
+    background-size:auto;
+    background-position:auto;
+    color: white;
+    }
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
+    ::-webkit-scrollbar {
+        background: #dddddd
+    }
+    ::-webkit-scrollbar-thumb {
+        background: #db1
+    }
